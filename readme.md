@@ -8,7 +8,7 @@ ScrollCraft is a **premium GSAP-based animation project** focused on ultra‑smo
 
 
 <h1>LIVE DEMO</h1> :
-
+<strong>https://shoaibejaz512.github.io/ScrollCraft/</strong>
 
 
 ---
